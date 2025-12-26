@@ -75,7 +75,7 @@ To run this project locally, follow these steps:
 📸 Screenshots
 
 📌 Screenshot of the profile card as shown in the repo.
-![]()
+![](./k.png)
 
 ⭐ Contributing
 
